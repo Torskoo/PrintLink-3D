@@ -1,3 +1,4 @@
+![](https://media.discordapp.net/attachments/886729543908458509/1457253135394275493/image.png?ex=695b543d&is=695a02bd&hm=c1d683ecb3103c409ae56f4e83a22016c9845da8b0123bfbfa0fa750d4923f4d&=&format=webp&quality=lossless&width=2696&height=1522)
 # 🖨️ PrintLink - 3D Printer Monitoring Dashboard
 
 Plateforme **open-source** de supervision et de contrôle d’impressions 3D, conçue pour les imprimantes installées dans un **caisson isolé (enclosure)**.
